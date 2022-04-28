@@ -1,0 +1,42 @@
+@media (max-width: 991px) {
+  .navbar-nav.menu_nav {
+    text-align: center;
+    background-color: #6e57e0;
+    color: #fff;
+  }
+  .cardarea {
+    margin: 0 auto;
+  }
+  .about h2, .skill_area h2, .services h2, .portfolio h2, .testomonial h2, contact h2 {
+    font-size: 7.5rem;
+  }
+  .servi h2 {
+    font-size: 6rem;
+  }
+  .cardarea {
+    margin-top: 5rem;
+  }
+  form .input-box input {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 1.5rem;
+  }
+  form .input-box textarea {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 1.5rem;
+  }
+  .sub_contact h1 {
+    font-size: 4rem;
+  }
+  .sub_contact h4 {
+    font-size: 1.7rem;
+  }
+  .sub_contact .sub-con-button {
+    margin-top: 2rem;
+  }
+  .about_img {
+    margin-top: 6rem;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */
